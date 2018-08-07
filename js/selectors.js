@@ -1,1 +1,2 @@
 paragraphSelector
+lastImageSelector
