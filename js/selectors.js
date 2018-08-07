@@ -1,2 +1,3 @@
 paragraphSelector
 lastImageSelector
+ninjaBabySelector
