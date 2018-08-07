@@ -1,3 +1,4 @@
 paragraphSelector
 lastImageSelector
 ninjaBabySelector
+divSelector()
